@@ -2,7 +2,7 @@ import mysql.connector
 
 
 def connection():
-    host = 'arcela.proxy.rlwy.net'
+    host = 'acela.proxy.rlwy.net'
     port = 15183
     user = 'root'
     password = 'LqExHhecKrEUiqqDnJSYoeuhGfIRqFUI'
